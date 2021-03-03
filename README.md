@@ -1,1 +1,1 @@
-# LaslesVPN
+# Study project
